@@ -73,8 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       //new test commit
       body: Center(
-        // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.
+
         child: Column(
           // checking commit status
           mainAxisAlignment: MainAxisAlignment.center,
