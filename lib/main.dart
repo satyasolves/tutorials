@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.yellow,
       ),
-      home: const MyHomePage(title: 'Flutter Commit Testing 2'),
+      home: const MyHomePage(title: 'Flutter Commit Testing 3'),
     );
   }
 }
