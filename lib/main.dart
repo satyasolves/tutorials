@@ -38,7 +38,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     setState(() {
-      //new commits
       _counter++;
     });
   }
