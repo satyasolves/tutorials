@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// test flutter code
 void main() {
   runApp(const MyApp());
 }
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.yellow,
       ),
-      home: const MyHomePage(title: 'Flutter code testing'),
+      home: const MyHomePage(title: 'Flutter code testing 2'),
     );
   }
 }
