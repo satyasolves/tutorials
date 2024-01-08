@@ -10,12 +10,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'This Commit Should Work!',
+      title: 'Final test commit',
       theme: ThemeData(
 
         primarySwatch: Colors.green,
       ),
-      home: const MyHomePage(title: 'Flutter code testing 2'),
+      home: const MyHomePage(title: 'Final test commit'),
     );
   }
 }
